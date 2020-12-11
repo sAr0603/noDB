@@ -4,7 +4,7 @@
 
  ![Made with JS](https://img.shields.io/badge/Made%20with-js-blueviolet?style=for-the-badge&logo=js)  ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%99%A5-red?style=for-the-badge&logo=open-source-initiative)  ![Built with Love](https://img.shields.io/badge/Built%20With-%E2%99%A5-critical?style=for-the-badge&logo=ko-fi)
 
-##Trivia 
+##  Trivia 
 Cryptographic Hashing Algorithm used : sha256 
 Libraries used : webpack,express,react,axios,jwt,cors,crypto,twilio.
 

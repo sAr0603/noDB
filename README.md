@@ -6,6 +6,7 @@
 
 ##  Trivia 
 Cryptographic Hashing Algorithm used : sha256 
+
 Libraries used : webpack,express,react,axios,jwt,cors,crypto,twilio.
 
 

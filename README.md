@@ -6,7 +6,10 @@
 
 
 ##  About
-noDB is an implementation of noPassword auth of user,without using any dB,promoting horizontal scalability along cross connected domains.This is achieved by using the concept of ```JWT(Json Web Tokens)```.
+noDB is an implementation of passwordless authentication of user.
+
+Achieved without using any dB,promoting horizontal scalability.
+This is achieved by using the power of ```JWT(Json Web Tokens)```.
 
 Built using ```express.js``` for server,
 ```React``` for frontend.
